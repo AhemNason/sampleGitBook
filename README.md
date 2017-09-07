@@ -2,6 +2,8 @@
 
 Using this for **CAUL/CBUA Training**. *Italics*.
 
+So this would be the updated text for 3.1. 
+
 [link](http://lib.unb.ca).
 
 ## Header 2
